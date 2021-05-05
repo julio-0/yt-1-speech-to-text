@@ -8,5 +8,5 @@ Implicit Code - Youtube / speech to text using NodeJs, Ffmpeg and ibm-cloud Wats
 3- place the .mp4 file in the root folder
 
 Youtube video:
-https://www.youtube.com/watch?v=j1S7kLRa9v0
+https://www.youtube.com/watch?v=FC6SjVdNGfg
 
